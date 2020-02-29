@@ -27,5 +27,5 @@ Watch these videos: [for Windows](https://youtu.be/GAGUDL-4aVw) and [for macOS](
 
 
 Click [here]() for the workshop slides.
-Click [here](doc/Exercise_Instructions.md) for the exercise instructions.
+Click [here](/doc/exercise_instructions.md) for the exercise instructions.
 Click [here]() for the exercise answer. Note that this link will only work after the workshop!
