@@ -19,4 +19,4 @@
 - Plot the following graph only for the buildings with 3 or more storeys and save it as a PNG file (20 cm x 10 cm) (hint:`geom_jitter`, `ggsave`)
 
 
-![](doc/toronto_apartments.png)
+![graph](toronto_apartments.png)
