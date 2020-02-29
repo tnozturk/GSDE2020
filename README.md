@@ -27,4 +27,5 @@ Watch these videos: [for Windows](https://youtu.be/GAGUDL-4aVw) and [for macOS](
 
 
 Exercise instructions: https://github.com/tnozturk/GSDE2020/blob/master/doc/exercise_intructions.md
+
 Note that you will find all the answers in this Github repo after the workshop!
