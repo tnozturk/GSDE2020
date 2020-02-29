@@ -26,6 +26,5 @@ At the end of this workshop, you will be able to:
 Watch these videos: [for Windows](https://youtu.be/GAGUDL-4aVw) and [for macOS](https://youtu.be/EmZqlcKkJMM).
 
 
-Click [here]() for the workshop slides.
-Click [here](/doc/exercise_instructions.md) for the exercise instructions.
-Click [here]() for the exercise answer. Note that this link will only work after the workshop!
+Exercise instructions: https://github.com/tnozturk/GSDE2020/blob/master/doc/exercise_intructions.md
+Note that you will find all the answers in this Github repo after the workshop!
