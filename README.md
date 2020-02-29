@@ -23,6 +23,7 @@ At the end of this workshop, you will be able to:
 
 
 *Don't like reading instructions?*
+
 Watch these videos: [for Windows](https://youtu.be/GAGUDL-4aVw) and [for macOS](https://youtu.be/EmZqlcKkJMM).
 
 
