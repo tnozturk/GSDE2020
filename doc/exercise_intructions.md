@@ -20,3 +20,5 @@
 
 
 ![graph](toronto_apartments.png)
+
+This exercise is adapted from [Sharla Gelfand](https://github.com/sharlagelfand/)'s OpenDataToronto demo. 
