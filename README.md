@@ -1,4 +1,4 @@
-# GSDE2020
+# GSDE2020 R Workshop
 
 ## Data Analysis and Visualization for Social Scientists
 
@@ -27,6 +27,20 @@ At the end of this workshop, you will be able to:
 Watch these videos: [for Windows](https://youtu.be/GAGUDL-4aVw) and [for macOS](https://youtu.be/EmZqlcKkJMM).
 
 
-Exercise instructions: https://github.com/tnozturk/GSDE2020/blob/master/doc/exercise_intructions.md
 
-Note that you will find all the answers in this Github repo after the workshop!
+### Hands-on demo
+
+- Create a folder named *Rworkshop*.
+
+- Go to the *data* folder and download the `gapminder.txt` file into this folder.
+
+- Go to the *scripts* folder and download the `hands_on_demo.R` into the *Rworkshop* folder.
+
+- Follow the instructor's instructions.
+
+
+### Click [here](https://github.com/tnozturk/GSDE2020/blob/master/doc/exercise_intructions.md) for the exercise instructions
+
+
+
+Note that you will find a subfolder named *solutions* inside the *scripts* folder, in this Github repo after the workshop, that includes the detailed solutions to the demo and exercise.
